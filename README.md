@@ -1,1 +1,1 @@
-# learning-heroku-hello-streamlit
+# heroku-hello-streamlit
